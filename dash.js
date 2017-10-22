@@ -716,7 +716,7 @@ var MyDash = new Lang.Class({
         let most_used = new Object();
         //for (let i=0; i < Math.min(10, used.length); i++) {
         let ctr_added = 0;
-        for (let i=0; i < used.length && ctr_added < 3; i++) {
+        for (let i=0; i < used.length && ctr_added < 10; i++) {
             let id = used[i].id;
             if (id in favorites)
                 continue;
