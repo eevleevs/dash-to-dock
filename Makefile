@@ -1,6 +1,6 @@
 # Basic Makefile
 
-UUID = dash-to-dock@micxgx.gmail.com
+UUID = dash-to-dock@ivlivs.it
 BASE_MODULES = extension.js stylesheet.css metadata.json COPYING README.md
 EXTRA_MODULES = convenience.js dash.js docking.js appIcons.js launcherAPI.js windowPreview.js intellihide.js prefs.js theming.js utils.js Settings.ui
 EXTRA_MEDIA = logo.svg glossy.svg
